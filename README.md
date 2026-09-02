@@ -3,9 +3,8 @@
 </tr>
 <tr>
 <td>
-<img width="450" height="450" alt="sableye" src="https://github.com/user-attachments/assets/ba8b6184-f1b2-47fc-bb81-1a353b128b03" />
+<img width="370" height="390" alt="sableye" src="https://github.com/user-attachments/assets/ace7849c-8552-45b9-badd-ce9e6cad4179" />
 </td>
-  
 <td>
   <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=v8iih9jxypf1mse38nhn9r6j0&redirect=true">
