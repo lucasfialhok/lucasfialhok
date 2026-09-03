@@ -3,8 +3,7 @@
 </tr>
 <tr>
 <td>
-<img width="270" height="290" alt="sableye" src="https://github.com/user-attachments/assets/0be761ab-2d97-4e79-a077-616dd36bec96" />
-
+<img width="430" height="380" alt="sableye" src="https://github.com/user-attachments/assets/ccb45d45-dfc8-431a-8c7c-b2e417765d61" />
 </td>
 <td>
   <p align="center">
